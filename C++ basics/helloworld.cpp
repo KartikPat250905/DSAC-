@@ -4,6 +4,8 @@ using namespace std;
 int main()
 {
     /*
+    Variable declarations
+
     cout << "Hello world\n";
     //cout << "Hello world" << endl;
     //cout << "Hello world" << "\n";
@@ -24,9 +26,18 @@ int main()
     cout << "size of a is:" << size << endl;
     */
     
+    
+    //Type casting and bool
+
     int a = 'a';
     cout << a << endl;
 
     char ch = 97;
     cout<< ch << endl;
+
+    int c = 25;
+    int d = 25;
+
+    bool first = (c==d);
+    cout<< first << endl;
 }
