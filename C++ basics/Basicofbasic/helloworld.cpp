@@ -26,8 +26,8 @@ int main()
     cout << "size of a is:" << size << endl;
     */
     
-    
-    //Type casting and bool
+    /*
+    Type casting and bool
 
     int a = 'a';
     cout << a << endl;
@@ -40,4 +40,11 @@ int main()
 
     bool first = (c==d);
     cout<< first << endl;
+    */
+
+
+    /*Std input
+    int n ;
+    cin >> n;
+    cout << "the number is : "<<n << endl;*/
 }
